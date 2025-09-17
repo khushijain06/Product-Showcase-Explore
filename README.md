@@ -7,7 +7,7 @@ It fetches data from the **DummyJSON Products API**, allowing users to **browse,
 
 ## 🚀 Live Demo & Source  
 
-- **Live App**: [Deployed on Vercel/Netlify]  
+- **Live App**: https://product-showcase-explore.vercel.app/
 - **Source Code**: https://github.com/khushijain06/Product-Showcase-Explore  
 
 ---
