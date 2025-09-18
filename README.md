@@ -58,7 +58,7 @@ It fetches data from the **DummyJSON Products API**, allowing users to **browse,
 ## 🛠️ Tech Stack  
 
 - **Framework**: React (Vite)
-- **Language**: T JavaScript 
+- **Language**:  JavaScript 
 - **Styling**: Tailwind CSS  
 - **Animations**: Framer Motion  
 - **Data Fetching**: Fetch API  
